@@ -1,3 +1,12 @@
+import "./jquery";
+import "./ajaxchimp";
+import "./owl.carousel.min";
+import "./wow";
+import "./parallax.min";
+import "./nicescroll";
+import "./scrollTo"
+
+
 $(document).ready(function () {
   //Navigation menu scrollTo
     $("header nav ul li a").click(function (event) {
